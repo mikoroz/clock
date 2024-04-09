@@ -1,0 +1,18 @@
+body
+{
+  background-color:white;
+}
+
+.clockpage
+{
+  margin: auto;
+  max-width: 500px;
+  min-width: 100px;
+  background: lightgreen;
+  text-align: center;
+  font-family: 'TimesNewRoman', sans-serif;
+  font-size: 60px;
+  padding: 10px;
+  border-top: 10px solid green;
+  margin-top: 300px;
+}
